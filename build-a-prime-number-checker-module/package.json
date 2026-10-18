@@ -1,0 +1,14 @@
+
+{
+  "name": "prime-checker",
+  "version": "1.0.0",
+  "description": "A module to check prime numbers",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": ["prime", "number", "checker"],
+  "author": "Phan Van Duong",
+  "license": "MIT"
+}
